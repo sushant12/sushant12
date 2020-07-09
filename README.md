@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a self taught software engineer with passion to build scalable distributed system.
+
+
 <!--
 **sushant12/sushant12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
