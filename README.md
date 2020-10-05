@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a self taught software engineer with passion for building distributed system.
+I am a self taught programmer.
 
 
 <!--
