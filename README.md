@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am a self taught programmer.
+- I make software to solve problems
+- I believe in using the right tool for the right job
+- I am comfortable with any high level programming languages
+- I like to read the source code of frameworks, libraries that I am using
 
 
 <!--
